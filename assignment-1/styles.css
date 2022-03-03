@@ -1,0 +1,73 @@
+.tit{
+    padding:16px;
+    background-color: slategrey;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+}
+
+.tit a{
+    color:white;
+}
+
+
+.nav{
+    padding: 16px;
+    background-color: grey;
+    width:100%
+}
+
+.nav a{
+    padding:13px 15px;
+    color:wheat;
+    font-size:17px;
+}
+
+.nav a:hover{
+    background-color: tan;
+    color:white;
+}
+
+body{
+    background-color: slategray;
+    font-family: 'Times New Roman', Times, serif;
+    height:100%;
+    width:96.95%;
+}
+
+.active{
+    background-color: slategray;
+}
+
+.nav button{
+    position: absolute;
+    right:20px;
+    padding:5px 7px;
+}
+
+.tit img{
+    width:80px;
+}
+
+.sidebar{
+    height:100%;
+    font-size: 20px;
+    width:160px;
+    float:left;
+}
+
+.form1{
+    height: 350px;
+    width:350px;
+    margin:0 auto;
+    background-color: slategrey;
+    font-size: 20px;
+    padding:10px;
+    border:2px solid black;
+}
+
+#sub{
+    position: relative;
+    left:100px;
+    background-color: slategrey;
+}
